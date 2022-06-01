@@ -95,7 +95,7 @@ li {
 /* ---hero--- */
 
 .hero {
-  background-image: url(/img/hero_image.jpg);
+  background-image: url('./img/hero_image.jpg');
   background-size: cover;
   height: 707px;
   padding-top: 194px;
@@ -420,156 +420,6 @@ img{
   background-repeat: no-repeat;
 }
 
-/* .item-admiral {
-  font-family: Yeseva One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 19px;
-  text-transform: uppercase;
-}
-
-.item-admiral__link {
-  color: rgba(255, 255, 255, 0.3);
-  text-decoration: none;
-}
-
-.item-admiral__link:hover {
-  color: #E3B873;
-  text-decoration: underline;
-}
-
-.item-thieves {
-  font-family: Yeseva One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 19px;
-  text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.3);
-}
-
-.item-patriotic {
-  font-family: Yeseva One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 19px;
-  text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.3);
-}
-
-.projects {
-  height: 1074px;
-  background: #131313;
-}
-
-.saloon {
-  display: flex;
-  justify-content: flex-end;
-  margin: 0;
-  margin-right: 100px;
-}
-
-.btn-left {
-  background: transparent;
-}
-
-.item {
-  margin: 107px 60px 52px;
-}
-
-.saloon-main-info {
-  display: flex;
-}
-
-.completed-title {
-  font-family: Yeseva One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 27px;
-  line-height: 37px;
-  letter-spacing: -0.07em;
-  text-transform: uppercase;
-  color: #E3B873;
-}
-
-.completed-info {
-  width: 442px;
-  height: 86px;
-}
-
-.info-title {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 27px;
-  color: #FFFFFF;
-}
-
-.information {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 440px;
-}
-
-.city {
-  width: 66px;
-  height: 71px;
-}
-
-.city-item {
-  font-family: Yeseva One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 25px;
-  text-transform: uppercase;
-  color: #E3B873;
-  margin: 0;
-}
-
-.city-item-p {
-  font-family: Nunito Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 13px;
-  line-height: 21px;
-  color: #FFFFFF;
-  margin: 0;
-  width: 160px;
-}
-
-.apartment-area {
-  width: 213px;
-  margin-left: 124px;
-}
-
-.repair-time {
-  width: 156px;
-}
-
-.repair-cost {
-  width: 160px;
-  margin-left: 34px;
-}
-
-.saloon-image {
-  width: 679px;
-  height: 482px;
-  background: url('/img/saloon.jpg');
-  margin-left: 89px;
-}
-
-.vector {
-  width: 205px;
-  height: 13px;
-  margin-top: 80px;
-  display: flex;
-  justify-content: space-between;
-} */
-
 /* --- online --- */
 
 .control {
@@ -616,7 +466,7 @@ img{
 .video {
   width: 817px;
   height: 434px;
-  background: url('/img/videos.jpg');
+  background: url('./img/videos.jpg');
   margin-top: -208px;
 }
 
@@ -798,7 +648,7 @@ input {
 .tools-logo {
   width: 114px;
   height: 30px;
-  background: url('/img/tools.jpg') no-repeat;
+  background: url('./img/tools.jpg') no-repeat;
   margin: 0 auto;
 }
 
@@ -816,15 +666,15 @@ input {
 }
 
 .number__left {
-  background: url('/img/redecorating.jpg') no-repeat;
+  background: url('./img/redecorating.jpg') no-repeat;
 }
 
 .number__center {
-  background: url('/img/overhaul.jpg') no-repeat;
+  background: url('./img/overhaul.jpg') no-repeat;
 }
 
 .number__right {
-  background: url('/img/design.jpg') no-repeat;
+  background: url('./img/design.jpg') no-repeat;
 }
 
 .number-list {
@@ -904,7 +754,7 @@ input {
   margin-top: 240px;
   width: 506px;
   height: 645px;
-  background: url('/img/building.png') no-repeat;
+  background: url('./img/building.png') no-repeat;
   margin-left: 0;
   background-position-y: -102px;
 }
@@ -1056,13 +906,13 @@ input {
 .image-fantasies{
   max-width: 100%;
   height: 864px;
-  background: url('/img/newimg.png') no-repeat;
+  background: url('./img/newimg.png') no-repeat;
 }
 
 .clock-image {
   width: 354px;
   height: 557px;
-  background: url('/img/imageclock.jpg') no-repeat;
+  background: url('./img/imageclock.jpg') no-repeat;
   margin-left: 587px;
   margin-top: -905px;
 }
@@ -1070,13 +920,13 @@ input {
 .tv-image {
   width: 354px;
   height: 349px;
-  background: url('/img/imagetv.jpg') no-repeat;
+  background: url('./img/imagetv.jpg') no-repeat;
   margin-left: 587px;
   margin-top: 41px;
 }
 
 .flower-image {
-  background: url('/img/imageаflower.jpg') no-repeat;
+  background: url('./img/imageаflower.jpg') no-repeat;
   width: 354px;
   height: 624px;
   margin-left: 984px;
@@ -1084,7 +934,7 @@ input {
 }
 
 .sofa-image {
-  background: url('/img/imagesofa.png') no-repeat;
+  background: url('./img/imagesofa.png') no-repeat;
   width: 354px;
   height: 275px;
   margin-top: -937px;
@@ -1253,7 +1103,7 @@ input {
   position: relative;
   width: 100%;
   height: 100%;
-  background: url('/img/final-background.jpg');
+  background: url('./img/final-background.jpg');
   padding-top: 274px;
   margin-top: -200px;
 }
@@ -1409,7 +1259,7 @@ input {
     display: none;
   }
   .saloon-image-mobile {
-    background: url('/img/completed-mobile.jpg');
+    background: url('./img/completed-mobile.jpg');
     width: 340px;
     height: 240px;
     margin: 0 auto;
@@ -1441,7 +1291,7 @@ input {
   }
   .button-mobile-left {
     width: 36px;
-    background: url('/img/left-saloon.png');
+    background: url('./img/left-saloon.png');
     z-index: 1;
     position: absolute;
     height: 36px;
@@ -1452,7 +1302,7 @@ input {
   }
   .button-mobile-right {
     width: 36px;
-    background: url('/img/right-saloon.png');
+    background: url('./img/right-saloon.png');
     z-index: 1;
     position: absolute;
     height: 36px;
@@ -1602,7 +1452,7 @@ input {
   .image-fantasies {
     width: 340px;
     height: 242px;
-    background: url('/img/mobile-clock.jpg') no-repeat;
+    background: url('./img/mobile-clock.jpg') no-repeat;
     margin: auto;
     margin-top: 222px;
     position: relative;
